@@ -1,14 +1,14 @@
 const employees = [
-  { "Matricula": "F119481", "Nome": "LAYSSA MENDES DE LIMA", "Setor": "Empresarial", "DPA": "97%", "ETIT": "100%" },
+  { "Matricula": "F119481", "Nome": "LAYSSA MENDES DE LIMA", "Setor": "Empresarial", "DPA": "96%", "ETIT": "99%" },
   { "Matricula": "N6026848", "Nome": "BRUNO RIBEIRO ARAUJO", "Setor": "Empresarial", "DPA": "90%", "ETIT": "96%" },
   { "Matricula": "N5969641", "Nome": "CARLOS ALEXANDRE COSTA DE OLIVEIRA", "Setor": "Empresarial", "DPA": "93%", "ETIT": "93%" },
   { "Matricula": "N5705710", "Nome": "ULYSSES FERREIRA DOS SANTOS", "Setor": "Empresarial", "DPA": "114%", "ETIT": "100%" },
   { "Matricula": "F201734", "Nome": "BRENDA FERNANDA DA SILVA DAVID", "Setor": "Empresarial", "DPA": "102%", "ETIT": "91%" },
-  { "Matricula": "N5922887", "Nome": "ROMULO BARBOSA NICOLAE", "Setor": "Empresarial", "DPA": "94%", "ETIT": "93%" },
-  { "Matricula": "N5963374", "Nome": "THIAGO RODRIGUES LOPES", "Setor": "Empresarial", "DPA": "85%", "ETIT": "86%" },
+  { "Matricula": "N5922887", "Nome": "ROMULO BARBOSA NICOLAE", "Setor": "Empresarial", "DPA": "99%", "ETIT": "92%" },
+  { "Matricula": "N5963374", "Nome": "THIAGO RODRIGUES LOPES", "Setor": "Empresarial", "DPA": "87%", "ETIT": "83%" },
   { "Matricula": "N5946041", "Nome": "FABIO ANGELO MAGELA DE ALMEIDA", "Setor": "Empresarial", "DPA": "-", "ETIT": "98%" },
-  { "Matricula": "N6172922", "Nome": "DJALMIR SILVA DE SENA", "Setor": "Empresarial", "DPA": "83%", "ETIT": "90%" },
-  { "Matricula": "N5739694", "Nome": "GUILHERME SCALON DA SILVA COELHO", "Setor": "Empresarial", "DPA": "82%", "ETIT": "87%" }
+  { "Matricula": "N6172922", "Nome": "DJALMIR SILVA DE SENA", "Setor": "Empresarial", "DPA": "84%", "ETIT": "84%" },
+  { "Matricula": "N5739694", "Nome": "GUILHERME SCALON DA SILVA COELHO", "Setor": "Empresarial", "DPA": "82%", "ETIT": "86%" }
 ];
 
 function definirMeta(tipo) {
