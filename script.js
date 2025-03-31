@@ -14,7 +14,7 @@ const employees = [
 function definirMeta(tipo) {
     const metas = {
         "ETIT": 85,
-        "DPA": 90
+        "DPA": 85
     };
     return metas[tipo];
 }
