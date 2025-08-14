@@ -1,6 +1,3 @@
-from graphviz import Digraph
-
-# Criando o organograma
 org = Digraph("OrganogramaEquipe", format='png')
 org.attr(rankdir='TB', size='10', fontname='Helvetica')
 
